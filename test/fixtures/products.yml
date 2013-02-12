@@ -11,3 +11,9 @@ two:
   description: MyText
   image_url: MyString
   price: 9.99
+
+ruby:
+  title: Prog Ruby 1.9
+  description: Ruby Ruby Ruby ;)
+  price: 48.90
+  image_url: ruby.png

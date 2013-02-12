@@ -8,5 +8,4 @@ class StoreControllerTest < ActionController::TestCase
     assert_select '#main .entry', 3
     assert_select '.price', /\$[,\d]+\.\d\d/
   end
-
 end
